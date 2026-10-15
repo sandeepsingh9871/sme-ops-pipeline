@@ -1,0 +1,114 @@
+[
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "min_row_count",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "rows=949,079 (min 900,000)"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "complaint_id_not_null",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "nulls=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "complaint_id_unique",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "rows=949,079 distinct=949,079"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "date_received_not_null",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "nulls=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "product_not_null",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "nulls=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "timely_response_valid_values",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "bad_values=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "dates_in_expected_range",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "before_2020=0 future=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "days_to_company_non_negative",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "negative=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "issue_null_pct_below_0.1",
+    "status": "PASS",
+    "severity": "warn",
+    "detail": "null_pct=0.0005"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:00",
+    "check": "days_to_company_null_pct_below_1",
+    "status": "PASS",
+    "severity": "warn",
+    "detail": "null_pct=0.0000"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:03",
+    "check": "narrative_ids_unique",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "rows=481,385 distinct=481,385"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:03",
+    "check": "narrative_min_length",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "too_short=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:03",
+    "check": "narrative_ids_exist_in_complaints",
+    "status": "PASS",
+    "severity": "critical",
+    "detail": "orphans=0"
+  },
+  {
+    "run_id": "2ec4977c",
+    "ts": "2026-10-15T06:16:03",
+    "check": "narrative_coverage_at_least_40pct",
+    "status": "PASS",
+    "severity": "warn",
+    "detail": "coverage=50.7%"
+  }
+]

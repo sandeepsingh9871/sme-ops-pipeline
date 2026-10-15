@@ -1,0 +1,10 @@
+data/
+venv/
+logs/
+models/
+derby.log
+spark-warehouse/
+*_output.txt
+classifier_*.txt
+nohup.out
+__pycache__/
