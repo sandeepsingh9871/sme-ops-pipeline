@@ -1,0 +1,287 @@
+month_start,year,month,product,complaints,late_responses,late_pct,avg_days_to_company
+2020-01-01,2020,1,Checking or savings account,1845,39,2.11,1.29
+2020-01-01,2020,1,Credit card or prepaid card,2401,25,1.04,1.06
+2020-01-01,2020,1,"Money transfer, virtual currency, or money service",391,16,4.09,0.91
+2020-02-01,2020,2,Checking or savings account,1725,41,2.38,1.13
+2020-02-01,2020,2,Credit card or prepaid card,2301,21,0.91,0.96
+2020-02-01,2020,2,"Money transfer, virtual currency, or money service",389,7,1.8,0.97
+2020-03-01,2020,3,Checking or savings account,1682,30,1.78,0.83
+2020-03-01,2020,3,Credit card or prepaid card,2433,20,0.82,0.74
+2020-03-01,2020,3,"Money transfer, virtual currency, or money service",461,14,3.04,1.1
+2020-04-01,2020,4,Checking or savings account,2022,30,1.48,0.83
+2020-04-01,2020,4,Credit card or prepaid card,3171,123,3.88,0.88
+2020-04-01,2020,4,"Money transfer, virtual currency, or money service",636,7,1.1,0.37
+2020-05-01,2020,5,Checking or savings account,1902,12,0.63,0.85
+2020-05-01,2020,5,Credit card or prepaid card,3161,163,5.16,1.01
+2020-05-01,2020,5,"Money transfer, virtual currency, or money service",739,10,1.35,0.82
+2020-06-01,2020,6,Checking or savings account,2390,16,0.67,1.08
+2020-06-01,2020,6,Credit card or prepaid card,3125,80,2.56,1.07
+2020-06-01,2020,6,"Money transfer, virtual currency, or money service",1153,12,1.04,0.61
+2020-07-01,2020,7,Checking or savings account,2524,10,0.4,1.29
+2020-07-01,2020,7,Credit card or prepaid card,3057,36,1.18,1.61
+2020-07-01,2020,7,"Money transfer, virtual currency, or money service",1181,13,1.1,0.95
+2020-08-01,2020,8,Checking or savings account,2086,15,0.72,1.39
+2020-08-01,2020,8,Credit card or prepaid card,2943,27,0.92,1.57
+2020-08-01,2020,8,"Money transfer, virtual currency, or money service",830,9,1.08,1.67
+2020-09-01,2020,9,Checking or savings account,2102,12,0.57,1.28
+2020-09-01,2020,9,Credit card or prepaid card,2856,32,1.12,1.19
+2020-09-01,2020,9,"Money transfer, virtual currency, or money service",583,10,1.72,1.27
+2020-10-01,2020,10,Checking or savings account,2051,15,0.73,1.07
+2020-10-01,2020,10,Credit card or prepaid card,2879,37,1.29,0.99
+2020-10-01,2020,10,"Money transfer, virtual currency, or money service",601,16,2.66,0.9
+2020-11-01,2020,11,Checking or savings account,1753,19,1.08,1.61
+2020-11-01,2020,11,Credit card or prepaid card,2679,32,1.19,1.54
+2020-11-01,2020,11,"Money transfer, virtual currency, or money service",574,7,1.22,1.78
+2020-12-01,2020,12,Checking or savings account,2156,11,0.51,1.6
+2020-12-01,2020,12,Credit card or prepaid card,2873,25,0.87,1.89
+2020-12-01,2020,12,"Money transfer, virtual currency, or money service",768,13,1.69,1.96
+2021-01-01,2021,1,Checking or savings account,2335,15,0.64,1.62
+2021-01-01,2021,1,Credit card or prepaid card,2792,17,0.61,1.85
+2021-01-01,2021,1,"Money transfer, virtual currency, or money service",784,19,2.42,2.0
+2021-02-01,2021,2,Checking or savings account,2191,21,0.96,2.09
+2021-02-01,2021,2,Credit card or prepaid card,2740,13,0.47,2.0
+2021-02-01,2021,2,"Money transfer, virtual currency, or money service",1094,52,4.75,2.47
+2021-03-01,2021,3,Checking or savings account,2761,15,0.54,1.25
+2021-03-01,2021,3,Credit card or prepaid card,3086,24,0.78,1.03
+2021-03-01,2021,3,"Money transfer, virtual currency, or money service",1715,59,3.44,1.07
+2021-04-01,2021,4,Checking or savings account,2452,11,0.45,1.18
+2021-04-01,2021,4,Credit card or prepaid card,2557,32,1.25,1.24
+2021-04-01,2021,4,"Money transfer, virtual currency, or money service",1710,21,1.23,1.18
+2021-05-01,2021,5,Checking or savings account,2711,20,0.74,1.27
+2021-05-01,2021,5,Credit card or prepaid card,2368,40,1.69,1.59
+2021-05-01,2021,5,"Money transfer, virtual currency, or money service",1748,39,2.23,2.27
+2021-06-01,2021,6,Checking or savings account,2312,78,3.37,1.64
+2021-06-01,2021,6,Credit card or prepaid card,2310,154,6.67,2.21
+2021-06-01,2021,6,"Money transfer, virtual currency, or money service",1384,21,1.52,1.92
+2021-07-01,2021,7,Checking or savings account,2337,49,2.1,1.92
+2021-07-01,2021,7,Credit card or prepaid card,2522,61,2.42,2.14
+2021-07-01,2021,7,"Money transfer, virtual currency, or money service",890,20,2.25,2.69
+2021-08-01,2021,8,Checking or savings account,2471,62,2.51,2.28
+2021-08-01,2021,8,Credit card or prepaid card,2526,103,4.08,2.44
+2021-08-01,2021,8,"Money transfer, virtual currency, or money service",914,22,2.41,2.07
+2021-09-01,2021,9,Checking or savings account,2365,67,2.83,1.64
+2021-09-01,2021,9,Credit card or prepaid card,2585,71,2.75,2.07
+2021-09-01,2021,9,"Money transfer, virtual currency, or money service",865,18,2.08,2.0
+2021-10-01,2021,10,Checking or savings account,2447,80,3.27,1.38
+2021-10-01,2021,10,Credit card or prepaid card,2880,60,2.08,1.83
+2021-10-01,2021,10,"Money transfer, virtual currency, or money service",910,30,3.3,2.12
+2021-11-01,2021,11,Checking or savings account,2460,38,1.54,2.63
+2021-11-01,2021,11,Credit card or prepaid card,2731,52,1.9,2.36
+2021-11-01,2021,11,"Money transfer, virtual currency, or money service",949,18,1.9,2.3
+2021-12-01,2021,12,Checking or savings account,2714,25,0.92,2.18
+2021-12-01,2021,12,Credit card or prepaid card,2725,39,1.43,2.16
+2021-12-01,2021,12,"Money transfer, virtual currency, or money service",933,16,1.71,2.37
+2022-01-01,2022,1,Checking or savings account,2960,28,0.95,1.74
+2022-01-01,2022,1,Credit card or prepaid card,3117,34,1.09,1.74
+2022-01-01,2022,1,"Money transfer, virtual currency, or money service",1019,5,0.49,2.6
+2022-02-01,2022,2,Checking or savings account,3003,25,0.83,1.68
+2022-02-01,2022,2,Credit card or prepaid card,3189,34,1.07,1.76
+2022-02-01,2022,2,"Money transfer, virtual currency, or money service",883,11,1.25,2.37
+2022-03-01,2022,3,Checking or savings account,3357,50,1.49,1.9
+2022-03-01,2022,3,Credit card or prepaid card,3342,79,2.36,2.03
+2022-03-01,2022,3,"Money transfer, virtual currency, or money service",1110,17,1.53,1.57
+2022-04-01,2022,4,Checking or savings account,3236,68,2.1,1.49
+2022-04-01,2022,4,Credit card or prepaid card,3252,62,1.91,2.12
+2022-04-01,2022,4,"Money transfer, virtual currency, or money service",1178,33,2.8,1.86
+2022-05-01,2022,5,Checking or savings account,2841,48,1.69,1.95
+2022-05-01,2022,5,Credit card or prepaid card,2638,39,1.48,1.98
+2022-05-01,2022,5,"Money transfer, virtual currency, or money service",1152,15,1.3,1.54
+2022-06-01,2022,6,Checking or savings account,2808,26,0.93,1.38
+2022-06-01,2022,6,Credit card or prepaid card,3060,49,1.6,1.68
+2022-06-01,2022,6,"Money transfer, virtual currency, or money service",1003,21,2.09,1.72
+2022-07-01,2022,7,Checking or savings account,3056,33,1.08,1.23
+2022-07-01,2022,7,Credit card or prepaid card,3380,52,1.54,1.64
+2022-07-01,2022,7,"Money transfer, virtual currency, or money service",1192,14,1.17,1.27
+2022-08-01,2022,8,Checking or savings account,3431,54,1.57,1.51
+2022-08-01,2022,8,Credit card or prepaid card,3752,41,1.09,1.84
+2022-08-01,2022,8,"Money transfer, virtual currency, or money service",1300,11,0.85,1.57
+2022-09-01,2022,9,Checking or savings account,3187,42,1.32,1.54
+2022-09-01,2022,9,Credit card or prepaid card,3542,25,0.71,2.1
+2022-09-01,2022,9,"Money transfer, virtual currency, or money service",1202,12,1.0,1.51
+2022-10-01,2022,10,Checking or savings account,3102,39,1.26,1.47
+2022-10-01,2022,10,Credit card or prepaid card,3551,28,0.79,1.93
+2022-10-01,2022,10,"Money transfer, virtual currency, or money service",1099,19,1.73,1.56
+2022-11-01,2022,11,Checking or savings account,2987,67,2.24,1.76
+2022-11-01,2022,11,Credit card or prepaid card,3330,45,1.35,1.94
+2022-11-01,2022,11,"Money transfer, virtual currency, or money service",1221,33,2.7,2.17
+2022-12-01,2022,12,Checking or savings account,3614,54,1.49,1.54
+2022-12-01,2022,12,Credit card or prepaid card,3726,34,0.91,2.33
+2022-12-01,2022,12,"Money transfer, virtual currency, or money service",1175,27,2.3,2.25
+2023-01-01,2023,1,Checking or savings account,6395,91,1.42,0.91
+2023-01-01,2023,1,Credit card or prepaid card,4353,60,1.38,1.89
+2023-01-01,2023,1,"Money transfer, virtual currency, or money service",1269,19,1.5,1.78
+2023-02-01,2023,2,Checking or savings account,3944,74,1.88,1.27
+2023-02-01,2023,2,Credit card or prepaid card,3961,38,0.96,2.13
+2023-02-01,2023,2,"Money transfer, virtual currency, or money service",1066,20,1.88,2.37
+2023-03-01,2023,3,Checking or savings account,4299,84,1.95,1.55
+2023-03-01,2023,3,Credit card or prepaid card,4532,41,0.9,2.34
+2023-03-01,2023,3,"Money transfer, virtual currency, or money service",1135,22,1.94,2.65
+2023-04-01,2023,4,Checking or savings account,3477,46,1.32,1.66
+2023-04-01,2023,4,Credit card or prepaid card,3797,30,0.79,2.53
+2023-04-01,2023,4,"Money transfer, virtual currency, or money service",1031,17,1.65,2.29
+2023-05-01,2023,5,Checking or savings account,4084,30,0.73,1.5
+2023-05-01,2023,5,Credit card or prepaid card,4232,22,0.52,2.38
+2023-05-01,2023,5,"Money transfer, virtual currency, or money service",1116,10,0.9,2.4
+2023-06-01,2023,6,Checking or savings account,3883,7,0.18,1.86
+2023-06-01,2023,6,Credit card or prepaid card,4650,18,0.39,2.49
+2023-06-01,2023,6,"Money transfer, virtual currency, or money service",1158,8,0.69,2.46
+2023-07-01,2023,7,Checking or savings account,4279,20,0.47,1.34
+2023-07-01,2023,7,Credit card or prepaid card,5253,23,0.44,1.83
+2023-07-01,2023,7,"Money transfer, virtual currency, or money service",1074,19,1.77,2.37
+2023-08-01,2023,8,Checking or savings account,4315,15,0.35,1.06
+2023-08-01,2023,8,Credit card,1215,0,0.0,0.71
+2023-08-01,2023,8,Credit card or prepaid card,4532,14,0.31,1.54
+2023-08-01,2023,8,"Money transfer, virtual currency, or money service",1160,21,1.81,1.34
+2023-08-01,2023,8,Prepaid card,65,2,3.08,7.63
+2023-09-01,2023,9,Checking or savings account,3811,14,0.37,0.83
+2023-09-01,2023,9,Credit card,4918,5,0.1,0.71
+2023-09-01,2023,9,"Money transfer, virtual currency, or money service",1111,26,2.34,0.89
+2023-09-01,2023,9,Prepaid card,493,9,1.83,1.57
+2023-10-01,2023,10,Checking or savings account,3795,17,0.45,0.67
+2023-10-01,2023,10,Credit card,5810,9,0.15,0.48
+2023-10-01,2023,10,"Money transfer, virtual currency, or money service",1267,30,2.37,0.76
+2023-10-01,2023,10,Prepaid card,550,18,3.27,0.73
+2023-11-01,2023,11,Checking or savings account,3770,20,0.53,0.71
+2023-11-01,2023,11,Credit card,5153,7,0.14,0.59
+2023-11-01,2023,11,"Money transfer, virtual currency, or money service",1130,33,2.92,0.8
+2023-11-01,2023,11,Prepaid card,459,14,3.05,1.0
+2023-12-01,2023,12,Checking or savings account,3821,21,0.55,0.7
+2023-12-01,2023,12,Credit card,4776,8,0.17,0.52
+2023-12-01,2023,12,"Money transfer, virtual currency, or money service",1232,28,2.27,0.63
+2023-12-01,2023,12,Prepaid card,695,29,4.17,0.76
+2024-01-01,2024,1,Checking or savings account,4032,17,0.42,0.55
+2024-01-01,2024,1,Credit card,5247,3,0.06,0.6
+2024-01-01,2024,1,"Money transfer, virtual currency, or money service",1286,37,2.88,0.8
+2024-01-01,2024,1,Prepaid card,681,17,2.5,1.02
+2024-02-01,2024,2,Checking or savings account,3833,27,0.7,0.7
+2024-02-01,2024,2,Credit card,5182,5,0.1,0.47
+2024-02-01,2024,2,"Money transfer, virtual currency, or money service",1306,34,2.6,0.89
+2024-02-01,2024,2,Prepaid card,553,26,4.7,0.76
+2024-03-01,2024,3,Checking or savings account,4257,25,0.59,0.56
+2024-03-01,2024,3,Credit card,5889,16,0.27,0.54
+2024-03-01,2024,3,"Money transfer, virtual currency, or money service",1457,67,4.6,0.88
+2024-03-01,2024,3,Prepaid card,597,25,4.19,1.25
+2024-04-01,2024,4,Checking or savings account,4327,25,0.58,0.65
+2024-04-01,2024,4,Credit card,6676,15,0.22,0.38
+2024-04-01,2024,4,"Money transfer, virtual currency, or money service",1285,53,4.12,0.96
+2024-04-01,2024,4,Prepaid card,553,34,6.15,0.82
+2024-05-01,2024,5,Checking or savings account,4539,33,0.73,1.55
+2024-05-01,2024,5,Credit card,6760,14,0.21,0.43
+2024-05-01,2024,5,"Money transfer, virtual currency, or money service",1351,26,1.92,1.15
+2024-05-01,2024,5,Prepaid card,535,18,3.36,0.84
+2024-06-01,2024,6,Checking or savings account,3886,27,0.69,0.73
+2024-06-01,2024,6,Credit card,5535,6,0.11,0.57
+2024-06-01,2024,6,"Money transfer, virtual currency, or money service",1268,27,2.13,0.84
+2024-06-01,2024,6,Prepaid card,494,16,3.24,0.84
+2024-07-01,2024,7,Checking or savings account,4329,42,0.97,0.78
+2024-07-01,2024,7,Credit card,6192,9,0.15,0.5
+2024-07-01,2024,7,"Money transfer, virtual currency, or money service",1328,18,1.36,0.81
+2024-07-01,2024,7,Prepaid card,478,26,5.44,0.97
+2024-08-01,2024,8,Checking or savings account,4683,46,0.98,0.64
+2024-08-01,2024,8,Credit card,7355,20,0.27,0.46
+2024-08-01,2024,8,"Money transfer, virtual currency, or money service",1557,34,2.18,0.94
+2024-08-01,2024,8,Prepaid card,458,18,3.93,0.83
+2024-09-01,2024,9,Checking or savings account,4270,20,0.47,0.52
+2024-09-01,2024,9,Credit card,7185,21,0.29,0.41
+2024-09-01,2024,9,"Money transfer, virtual currency, or money service",1316,25,1.9,0.55
+2024-09-01,2024,9,Prepaid card,349,18,5.16,1.2
+2024-10-01,2024,10,Checking or savings account,4692,24,0.51,0.64
+2024-10-01,2024,10,Credit card,7176,11,0.15,0.46
+2024-10-01,2024,10,"Money transfer, virtual currency, or money service",1450,13,0.9,0.76
+2024-10-01,2024,10,Prepaid card,447,65,14.54,0.88
+2024-11-01,2024,11,Checking or savings account,5175,20,0.39,0.49
+2024-11-01,2024,11,Credit card,6095,9,0.15,0.48
+2024-11-01,2024,11,"Money transfer, virtual currency, or money service",1416,29,2.05,0.48
+2024-11-01,2024,11,Prepaid card,458,83,18.12,0.79
+2024-12-01,2024,12,Checking or savings account,4798,19,0.4,0.58
+2024-12-01,2024,12,Credit card,6697,9,0.13,0.57
+2024-12-01,2024,12,"Money transfer, virtual currency, or money service",1731,23,1.33,0.71
+2024-12-01,2024,12,Prepaid card,720,91,12.64,1.05
+2025-01-01,2025,1,Checking or savings account,18367,38,0.21,0.3
+2025-01-01,2025,1,Credit card,9073,26,0.29,0.72
+2025-01-01,2025,1,"Money transfer, virtual currency, or money service",49743,89,0.18,0.34
+2025-01-01,2025,1,Prepaid card,756,67,8.86,1.79
+2025-02-01,2025,2,Checking or savings account,5452,31,0.57,1.98
+2025-02-01,2025,2,Credit card,6213,15,0.24,2.6
+2025-02-01,2025,2,"Money transfer, virtual currency, or money service",6128,59,0.96,1.25
+2025-02-01,2025,2,Prepaid card,495,42,8.48,3.92
+2025-03-01,2025,3,Checking or savings account,5070,26,0.51,1.03
+2025-03-01,2025,3,Credit card,6255,11,0.18,1.2
+2025-03-01,2025,3,"Money transfer, virtual currency, or money service",3032,54,1.78,1.05
+2025-03-01,2025,3,Prepaid card,485,30,6.19,3.44
+2025-04-01,2025,4,Checking or savings account,5229,38,0.73,1.33
+2025-04-01,2025,4,Credit card,6897,17,0.25,1.54
+2025-04-01,2025,4,"Money transfer, virtual currency, or money service",2504,46,1.84,1.61
+2025-04-01,2025,4,Prepaid card,508,32,6.3,3.61
+2025-05-01,2025,5,Checking or savings account,5394,34,0.63,1.41
+2025-05-01,2025,5,Credit card,7515,17,0.23,1.63
+2025-05-01,2025,5,"Money transfer, virtual currency, or money service",2652,37,1.4,1.45
+2025-05-01,2025,5,Prepaid card,513,21,4.09,4.0
+2025-06-01,2025,6,Checking or savings account,5557,135,2.43,1.1
+2025-06-01,2025,6,Credit card,7364,39,0.53,1.47
+2025-06-01,2025,6,"Money transfer, virtual currency, or money service",2408,227,9.43,0.99
+2025-06-01,2025,6,Prepaid card,490,32,6.53,2.81
+2025-07-01,2025,7,Checking or savings account,6403,87,1.36,1.15
+2025-07-01,2025,7,Credit card,8105,21,0.26,1.49
+2025-07-01,2025,7,"Money transfer, virtual currency, or money service",2823,211,7.47,1.65
+2025-07-01,2025,7,Prepaid card,560,26,4.64,4.61
+2025-08-01,2025,8,Checking or savings account,6505,48,0.74,1.07
+2025-08-01,2025,8,Credit card,7919,25,0.32,1.26
+2025-08-01,2025,8,"Money transfer, virtual currency, or money service",2879,64,2.22,1.54
+2025-08-01,2025,8,Prepaid card,558,5,0.9,3.57
+2025-09-01,2025,9,Checking or savings account,6141,39,0.64,1.58
+2025-09-01,2025,9,Credit card,8504,19,0.22,1.92
+2025-09-01,2025,9,"Money transfer, virtual currency, or money service",2505,55,2.2,2.1
+2025-09-01,2025,9,Prepaid card,531,4,0.75,4.19
+2025-10-01,2025,10,Checking or savings account,6308,32,0.51,1.39
+2025-10-01,2025,10,Credit card,7413,21,0.28,1.77
+2025-10-01,2025,10,"Money transfer, virtual currency, or money service",4193,44,1.05,1.57
+2025-10-01,2025,10,Prepaid card,481,6,1.25,4.64
+2025-11-01,2025,11,Checking or savings account,6077,47,0.77,2.01
+2025-11-01,2025,11,Credit card,6861,41,0.6,3.1
+2025-11-01,2025,11,"Money transfer, virtual currency, or money service",2603,84,3.23,3.97
+2025-11-01,2025,11,Prepaid card,486,18,3.7,7.15
+2025-12-01,2025,12,Checking or savings account,7692,54,0.7,1.51
+2025-12-01,2025,12,Credit card,7859,93,1.18,2.9
+2025-12-01,2025,12,"Money transfer, virtual currency, or money service",3149,58,1.84,3.06
+2025-12-01,2025,12,Prepaid card,639,26,4.07,7.06
+2026-01-01,2026,1,Checking or savings account,7916,46,0.58,1.57
+2026-01-01,2026,1,Credit card,9516,109,1.15,2.37
+2026-01-01,2026,1,"Money transfer, virtual currency, or money service",3478,66,1.9,2.64
+2026-01-01,2026,1,Prepaid card,646,30,4.64,5.17
+2026-02-01,2026,2,Checking or savings account,6559,43,0.66,1.38
+2026-02-01,2026,2,Credit card,7401,134,1.81,2.08
+2026-02-01,2026,2,"Money transfer, virtual currency, or money service",2766,100,3.62,2.96
+2026-02-01,2026,2,Prepaid card,498,24,4.82,6.15
+2026-03-01,2026,3,Checking or savings account,7824,57,0.73,1.47
+2026-03-01,2026,3,Credit card,8327,112,1.35,1.81
+2026-03-01,2026,3,"Money transfer, virtual currency, or money service",3395,67,1.97,2.44
+2026-03-01,2026,3,Prepaid card,462,31,6.71,4.36
+2026-04-01,2026,4,Checking or savings account,7676,80,1.04,1.52
+2026-04-01,2026,4,Credit card,8228,121,1.47,2.29
+2026-04-01,2026,4,"Money transfer, virtual currency, or money service",3458,86,2.49,2.16
+2026-04-01,2026,4,Prepaid card,457,44,9.63,4.98
+2026-05-01,2026,5,Checking or savings account,7199,49,0.68,1.51
+2026-05-01,2026,5,Credit card,7923,170,2.15,2.74
+2026-05-01,2026,5,"Money transfer, virtual currency, or money service",3216,61,1.9,1.96
+2026-05-01,2026,5,Prepaid card,497,41,8.25,5.59
+2026-06-01,2026,6,Checking or savings account,7671,58,0.76,1.38
+2026-06-01,2026,6,Credit card,7464,155,2.08,2.58
+2026-06-01,2026,6,"Money transfer, virtual currency, or money service",3040,63,2.07,1.87
+2026-06-01,2026,6,Prepaid card,525,28,5.33,4.84
+2026-07-01,2026,7,Checking or savings account,8013,59,0.74,1.46
+2026-07-01,2026,7,Credit card,8102,130,1.6,1.83
+2026-07-01,2026,7,"Money transfer, virtual currency, or money service",3505,59,1.68,1.39
+2026-07-01,2026,7,Prepaid card,558,45,8.06,4.27
+2026-08-01,2026,8,Checking or savings account,7818,41,0.52,0.87
+2026-08-01,2026,8,Credit card,8244,37,0.45,1.02
+2026-08-01,2026,8,"Money transfer, virtual currency, or money service",3214,56,1.74,0.83
+2026-08-01,2026,8,Prepaid card,543,40,7.37,2.35
+2026-09-01,2026,9,Checking or savings account,7469,17,0.23,0.26
+2026-09-01,2026,9,Credit card,7979,11,0.14,0.24
+2026-09-01,2026,9,"Money transfer, virtual currency, or money service",3149,33,1.05,0.18
+2026-09-01,2026,9,Prepaid card,478,26,5.44,0.25
+2026-10-01,2026,10,Checking or savings account,337,0,0.0,0.04
+2026-10-01,2026,10,Credit card,410,0,0.0,0.03
+2026-10-01,2026,10,"Money transfer, virtual currency, or money service",155,0,0.0,0.01
+2026-10-01,2026,10,Prepaid card,27,0,0.0,0.0

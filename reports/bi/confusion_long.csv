@@ -1,0 +1,122 @@
+true_issue,predicted_issue,tickets
+Closing an account,Closing an account,5927
+Fees or interest,Closing an account,31
+Fraud or scam,Closing an account,207
+Getting a credit card,Closing an account,29
+Managing an account,Closing an account,3319
+Opening an account,Closing an account,332
+"Other features, terms, or problems",Closing an account,79
+Other issues,Closing an account,2266
+Problem when making payments,Closing an account,20
+Problem with a lender or other company charging your account,Closing an account,199
+Problem with a purchase shown on your statement,Closing an account,41
+Closing an account,Fees or interest,13
+Fees or interest,Fees or interest,5106
+Fraud or scam,Fees or interest,5
+Getting a credit card,Fees or interest,35
+Managing an account,Fees or interest,186
+Opening an account,Fees or interest,11
+"Other features, terms, or problems",Fees or interest,333
+Other issues,Fees or interest,1527
+Problem when making payments,Fees or interest,408
+Problem with a lender or other company charging your account,Fees or interest,67
+Problem with a purchase shown on your statement,Fees or interest,419
+Closing an account,Fraud or scam,173
+Fees or interest,Fraud or scam,7
+Fraud or scam,Fraud or scam,6121
+Getting a credit card,Fraud or scam,23
+Managing an account,Fraud or scam,2290
+Opening an account,Fraud or scam,90
+"Other features, terms, or problems",Fraud or scam,80
+Other issues,Fraud or scam,19720
+Problem when making payments,Fraud or scam,12
+Problem with a lender or other company charging your account,Fraud or scam,759
+Problem with a purchase shown on your statement,Fraud or scam,334
+Closing an account,Getting a credit card,44
+Fees or interest,Getting a credit card,63
+Fraud or scam,Getting a credit card,53
+Getting a credit card,Getting a credit card,4647
+Managing an account,Getting a credit card,112
+Opening an account,Getting a credit card,261
+"Other features, terms, or problems",Getting a credit card,416
+Other issues,Getting a credit card,2070
+Problem when making payments,Getting a credit card,140
+Problem with a lender or other company charging your account,Getting a credit card,34
+Problem with a purchase shown on your statement,Getting a credit card,302
+Closing an account,Managing an account,1441
+Fees or interest,Managing an account,52
+Fraud or scam,Managing an account,896
+Getting a credit card,Managing an account,41
+Managing an account,Managing an account,20413
+Opening an account,Managing an account,447
+"Other features, terms, or problems",Managing an account,239
+Other issues,Managing an account,6338
+Problem when making payments,Managing an account,89
+Problem with a lender or other company charging your account,Managing an account,2117
+Problem with a purchase shown on your statement,Managing an account,462
+Closing an account,Opening an account,401
+Fees or interest,Opening an account,8
+Fraud or scam,Opening an account,91
+Getting a credit card,Opening an account,246
+Managing an account,Opening an account,1135
+Opening an account,Opening an account,3263
+"Other features, terms, or problems",Opening an account,58
+Other issues,Opening an account,577
+Problem when making payments,Opening an account,5
+Problem with a lender or other company charging your account,Opening an account,74
+Problem with a purchase shown on your statement,Opening an account,18
+Closing an account,"Other features, terms, or problems",71
+Fees or interest,"Other features, terms, or problems",422
+Fraud or scam,"Other features, terms, or problems",56
+Getting a credit card,"Other features, terms, or problems",312
+Managing an account,"Other features, terms, or problems",440
+Opening an account,"Other features, terms, or problems",40
+"Other features, terms, or problems","Other features, terms, or problems",3808
+Other issues,"Other features, terms, or problems",3699
+Problem when making payments,"Other features, terms, or problems",324
+Problem with a lender or other company charging your account,"Other features, terms, or problems",66
+Problem with a purchase shown on your statement,"Other features, terms, or problems",712
+Closing an account,Other issues,720
+Fees or interest,Other issues,482
+Fraud or scam,Other issues,1260
+Getting a credit card,Other issues,483
+Managing an account,Other issues,2846
+Opening an account,Other issues,179
+"Other features, terms, or problems",Other issues,1110
+Other issues,Other issues,25395
+Problem when making payments,Other issues,356
+Problem with a lender or other company charging your account,Other issues,519
+Problem with a purchase shown on your statement,Other issues,634
+Closing an account,Problem when making payments,15
+Fees or interest,Problem when making payments,668
+Fraud or scam,Problem when making payments,14
+Getting a credit card,Problem when making payments,32
+Managing an account,Problem when making payments,290
+Opening an account,Problem when making payments,7
+"Other features, terms, or problems",Problem when making payments,479
+Other issues,Problem when making payments,1544
+Problem when making payments,Problem when making payments,2033
+Problem with a lender or other company charging your account,Problem when making payments,62
+Problem with a purchase shown on your statement,Problem when making payments,319
+Closing an account,Problem with a lender or other company charging your account,206
+Fees or interest,Problem with a lender or other company charging your account,43
+Fraud or scam,Problem with a lender or other company charging your account,815
+Getting a credit card,Problem with a lender or other company charging your account,35
+Managing an account,Problem with a lender or other company charging your account,5239
+Opening an account,Problem with a lender or other company charging your account,71
+"Other features, terms, or problems",Problem with a lender or other company charging your account,121
+Other issues,Problem with a lender or other company charging your account,3290
+Problem when making payments,Problem with a lender or other company charging your account,41
+Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,4296
+Problem with a purchase shown on your statement,Problem with a lender or other company charging your account,892
+Closing an account,Problem with a purchase shown on your statement,43
+Fees or interest,Problem with a purchase shown on your statement,375
+Fraud or scam,Problem with a purchase shown on your statement,300
+Getting a credit card,Problem with a purchase shown on your statement,269
+Managing an account,Problem with a purchase shown on your statement,1349
+Opening an account,Problem with a purchase shown on your statement,16
+"Other features, terms, or problems",Problem with a purchase shown on your statement,762
+Other issues,Problem with a purchase shown on your statement,2150
+Problem when making payments,Problem with a purchase shown on your statement,95
+Problem with a lender or other company charging your account,Problem with a purchase shown on your statement,1110
+Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,14031

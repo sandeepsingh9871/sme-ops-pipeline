@@ -1,0 +1,260 @@
+company,product,complaints,late_responses,late_pct
+"Block, Inc.","Money transfer, virtual currency, or money service",56890,571,1.0
+WELLS FARGO & COMPANY,Checking or savings account,42569,99,0.23
+JPMORGAN CHASE & CO.,Checking or savings account,40533,0,0.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Checking or savings account,37664,1048,2.78
+CAPITAL ONE FINANCIAL CORPORATION,Credit card,30317,3,0.01
+"Paypal Holdings, Inc","Money transfer, virtual currency, or money service",28126,15,0.05
+"CITIBANK, N.A.",Credit card,26617,0,0.0
+"Early Warning Services, LLC","Money transfer, virtual currency, or money service",22286,4,0.02
+SYNCHRONY FINANCIAL,Credit card,20528,391,1.9
+Chime Financial Inc,Checking or savings account,19972,24,0.12
+NAVY FEDERAL CREDIT UNION,Checking or savings account,19690,0,0.0
+JPMORGAN CHASE & CO.,Credit card,18749,0,0.0
+CAPITAL ONE FINANCIAL CORPORATION,Checking or savings account,18723,0,0.0
+"EQUIFAX, INC.",Credit card,18561,0,0.0
+"CITIBANK, N.A.",Checking or savings account,17649,4,0.02
+CAPITAL ONE FINANCIAL CORPORATION,Credit card or prepaid card,17625,1,0.01
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit card,17413,0,0.0
+Experian Information Solutions Inc.,Credit card,16390,0,0.0
+"CITIBANK, N.A.",Credit card or prepaid card,15240,2,0.01
+AMERICAN EXPRESS COMPANY,Credit card,14574,82,0.56
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Credit card,13556,98,0.72
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Credit card or prepaid card,11826,692,5.85
+JPMORGAN CHASE & CO.,Credit card or prepaid card,11547,0,0.0
+SYNCHRONY FINANCIAL,Credit card or prepaid card,10208,0,0.0
+TRUIST FINANCIAL CORPORATION,Checking or savings account,10173,110,1.08
+PNC Bank N.A.,Checking or savings account,9990,0,0.0
+U.S. BANCORP,Checking or savings account,9929,0,0.0
+"Bread Financial Holdings, Inc.",Credit card,9197,0,0.0
+"Block, Inc.",Checking or savings account,9007,228,2.53
+AMERICAN EXPRESS COMPANY,Credit card or prepaid card,8501,1,0.01
+JPMORGAN CHASE & CO.,"Money transfer, virtual currency, or money service",8480,0,0.0
+WELLS FARGO & COMPANY,Credit card,8477,2,0.02
+"Bread Financial Holdings, Inc.",Credit card or prepaid card,8006,2,0.02
+GOLDMAN SACHS BANK USA,Credit card,7328,0,0.0
+TD BANK US HOLDING COMPANY,Checking or savings account,7244,0,0.0
+WELLS FARGO & COMPANY,"Money transfer, virtual currency, or money service",6972,10,0.14
+DISCOVER BANK,Credit card,6783,0,0.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION","Money transfer, virtual currency, or money service",6760,163,2.41
+BARCLAYS BANK DELAWARE,Credit card,6705,0,0.0
+"Coinbase, Inc.","Money transfer, virtual currency, or money service",6304,33,0.52
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Checking or savings account,6039,1,0.02
+DISCOVER BANK,Credit card or prepaid card,5648,0,0.0
+"CITIZENS FINANCIAL GROUP, INC.",Checking or savings account,5496,0,0.0
+BARCLAYS BANK DELAWARE,Credit card or prepaid card,5213,0,0.0
+U.S. BANCORP,Credit card or prepaid card,5153,0,0.0
+"SOFI TECHNOLOGIES, INC.",Checking or savings account,4940,3,0.06
+U.S. BANCORP,Credit card,4429,0,0.0
+AMERICAN EXPRESS COMPANY,Prepaid card,4425,6,0.14
+WELLS FARGO & COMPANY,Credit card or prepaid card,4295,9,0.21
+"Paypal Holdings, Inc",Checking or savings account,4226,2,0.05
+ALLY FINANCIAL INC.,Checking or savings account,4103,0,0.0
+Chime Financial Inc,"Money transfer, virtual currency, or money service",3977,2,0.05
+"HUNTINGTON NATIONAL BANK, THE",Checking or savings account,3870,2,0.05
+TD BANK US HOLDING COMPANY,Credit card,3723,0,0.0
+FIFTH THIRD FINANCIAL CORPORATION,Checking or savings account,3645,7,0.19
+NAVY FEDERAL CREDIT UNION,Credit card,3460,0,0.0
+GOLDMAN SACHS BANK USA,Checking or savings account,3389,13,0.38
+REGIONS FINANCIAL CORPORATION,Checking or savings account,3240,1,0.03
+BMO BANK NATIONAL ASSOCIATION,Checking or savings account,3148,1,0.03
+"CLGF Holdco 1, LLC",Credit card,2828,10,0.35
+KEYCORP,Checking or savings account,2682,2,0.07
+TD BANK US HOLDING COMPANY,Credit card or prepaid card,2622,0,0.0
+GOLDMAN SACHS BANK USA,Credit card or prepaid card,2612,1,0.04
+ROBINHOOD MARKETS INC.,"Money transfer, virtual currency, or money service",2424,391,16.13
+PNC Bank N.A.,"Money transfer, virtual currency, or money service",2391,0,0.0
+Incomm Holdings Inc.,Prepaid card,2278,603,26.47
+M&T BANK CORPORATION,Checking or savings account,2232,0,0.0
+"WESTERN UNION COMPANY, THE","Money transfer, virtual currency, or money service",2216,1,0.05
+"Early Warning Services, LLC",Checking or savings account,2146,1,0.05
+Comerica,Prepaid card,2086,0,0.0
+Chime Financial Inc,Credit card,2064,0,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit card or prepaid card,1997,0,0.0
+"Block, Inc.",Prepaid card,1941,63,3.25
+"CITIBANK, N.A.","Money transfer, virtual currency, or money service",1929,1,0.05
+Comerica,Credit card or prepaid card,1900,6,0.32
+"Fidelity National Information Services, Inc. (FNIS)",Checking or savings account,1886,0,0.0
+Atlanticus Services Corporation,Credit card,1835,1,0.05
+DISCOVER BANK,Checking or savings account,1831,0,0.0
+"EQUIFAX, INC.",Credit card or prepaid card,1798,0,0.0
+AMERICAN EXPRESS COMPANY,Checking or savings account,1797,11,0.61
+Experian Information Solutions Inc.,Credit card or prepaid card,1780,1,0.06
+ROBINHOOD MARKETS INC.,Checking or savings account,1618,212,13.1
+"Credit Karma, LLC",Checking or savings account,1605,39,2.43
+Netspend Corporation,Credit card or prepaid card,1602,22,1.37
+TransferWise Ltd,"Money transfer, virtual currency, or money service",1601,101,6.31
+FinCo Services Inc DBA Current,Checking or savings account,1588,174,10.96
+Comerica,Checking or savings account,1555,2,0.13
+NAVY FEDERAL CREDIT UNION,Credit card or prepaid card,1408,0,0.0
+"SANTANDER HOLDINGS USA, INC.",Checking or savings account,1390,0,0.0
+Netspend Corporation,Checking or savings account,1371,38,2.77
+CAPITAL ONE FINANCIAL CORPORATION,"Money transfer, virtual currency, or money service",1359,1,0.07
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,"Money transfer, virtual currency, or money service",1353,7,0.52
+Conduent Incorporated,Credit card or prepaid card,1327,533,40.17
+Winklevoss Exchange LLC,"Money transfer, virtual currency, or money service",1293,18,1.39
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Prepaid card,1290,2,0.16
+"Block, Inc.",Credit card or prepaid card,1212,4,0.33
+SYNCHRONY FINANCIAL,Checking or savings account,1190,4,0.34
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Credit card,1185,0,0.0
+BBVA FINANCIAL CORPORATION,Checking or savings account,1172,1,0.09
+HSBC NORTH AMERICA HOLDINGS INC.,Checking or savings account,1169,1,0.09
+"Block, Inc.",Credit card,1156,46,3.98
+"Paypal Holdings, Inc",Credit card,1122,0,0.0
+"CLGF Holdco 1, LLC",Credit card or prepaid card,1110,208,18.74
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Credit card or prepaid card,1083,0,0.0
+NAVY FEDERAL CREDIT UNION,"Money transfer, virtual currency, or money service",1052,0,0.0
+Netspend Corporation,Prepaid card,1046,49,4.68
+"Foris DAX, Inc.","Money transfer, virtual currency, or money service",1007,11,1.09
+U.S. BANCORP,Prepaid card,1000,0,0.0
+PENTAGON FEDERAL CREDIT UNION,Checking or savings account,987,0,0.0
+"CHARLES SCHWAB CORPORATION, THE",Checking or savings account,976,9,0.92
+Incomm Holdings Inc.,Credit card or prepaid card,969,93,9.6
+TRUIST FINANCIAL CORPORATION,Credit card,966,2,0.21
+Chime Financial Inc,Credit card or prepaid card,966,5,0.52
+TRUIST FINANCIAL CORPORATION,"Money transfer, virtual currency, or money service",959,17,1.77
+U.S. BANCORP,"Money transfer, virtual currency, or money service",932,0,0.0
+"Remitly, Inc.","Money transfer, virtual currency, or money service",931,20,2.15
+"Continental Finance Company, LLC",Credit card,916,0,0.0
+"Avant Holding Company, Inc.",Credit card,904,4,0.44
+Self Financial Inc.,Credit card,890,4,0.45
+"Affirm Holdings, Inc",Credit card,880,0,0.0
+"WEBSTER BANK, NATIONAL ASSOCIATION",Checking or savings account,863,1,0.12
+BAM Management US Holdings Inc.,"Money transfer, virtual currency, or money service",844,92,10.9
+FIRST NATIONAL BANK OF OMAHA,Credit card,843,3,0.36
+MORGAN STANLEY & CO. LLC,Checking or savings account,835,11,1.32
+"Paypal Holdings, Inc",Credit card or prepaid card,825,4,0.48
+Atlanticus Services Corporation,Credit card or prepaid card,812,128,15.76
+"AXOS FINANCIAL, INC.",Checking or savings account,804,3,0.37
+FISERV FINXACT CORE,Prepaid card,803,0,0.0
+TD BANK US HOLDING COMPANY,"Money transfer, virtual currency, or money service",799,0,0.0
+"FIRST CITIZENS BANCSHARES, INC.",Checking or savings account,754,1,0.13
+MoneyLion Inc.,Checking or savings account,741,12,1.62
+PNC Bank N.A.,Credit card or prepaid card,721,0,0.0
+ROBINHOOD MARKETS INC.,Credit card,719,14,1.95
+"OPTUM BANK, INC.",Checking or savings account,711,12,1.69
+PNC Bank N.A.,Credit card,704,0,0.0
+UNITED SERVICES AUTOMOBILE ASSOCIATION,"Money transfer, virtual currency, or money service",690,0,0.0
+Resurgent Capital Services L.P.,Credit card,684,0,0.0
+Payward Ventures Inc. dba Kraken,"Money transfer, virtual currency, or money service",644,7,1.09
+Conduent Incorporated,Prepaid card,626,279,44.57
+ENCORE CAPITAL GROUP INC.,Credit card,616,0,0.0
+Blackhawk Network Holdings Inc.,Prepaid card,616,43,6.98
+Synovus Bank,Credit card,615,0,0.0
+FIRST HORIZON BANK,Checking or savings account,598,5,0.84
+FIRST NATIONAL BANK OF OMAHA,Credit card or prepaid card,595,1,0.17
+"Bilt Technologies, Inc.",Credit card,588,114,19.39
+SYNCHRONY FINANCIAL,"Money transfer, virtual currency, or money service",567,4,0.71
+Synovus Bank,Credit card or prepaid card,567,0,0.0
+TRUIST FINANCIAL CORPORATION,Credit card or prepaid card,555,17,3.06
+BANK OF THE WEST,Checking or savings account,553,10,1.81
+FIRST PORTFOLIO SERVICING INC,Credit card,539,1,0.19
+Google Compare Credit Cards Inc.,"Money transfer, virtual currency, or money service",539,49,9.09
+FIFTH THIRD FINANCIAL CORPORATION,Credit card or prepaid card,526,0,0.0
+Klarna AB,Credit card,508,35,6.89
+"Avant Holding Company, Inc.",Credit card or prepaid card,500,10,2.0
+"SANTANDER BANK, NATIONAL ASSOCIATION",Checking or savings account,497,90,18.11
+Chime Financial Inc,Prepaid card,480,0,0.0
+NEW YORK COMMUNITY BANCORP INC,Checking or savings account,469,2,0.43
+ALLY FINANCIAL INC.,Credit card,467,0,0.0
+FISERV FINXACT CORE,Checking or savings account,462,2,0.43
+"CITIZENS FINANCIAL GROUP, INC.","Money transfer, virtual currency, or money service",457,0,0.0
+VYSTAR CREDIT UNION,Checking or savings account,455,1,0.22
+BMO BANK NATIONAL ASSOCIATION,Credit card,455,0,0.0
+"SOFI TECHNOLOGIES, INC.","Money transfer, virtual currency, or money service",452,0,0.0
+"Bread Financial Holdings, Inc.",Checking or savings account,439,0,0.0
+PENTAGON FEDERAL CREDIT UNION,Credit card or prepaid card,436,0,0.0
+"CITIZENS FINANCIAL GROUP, INC.",Credit card,435,0,0.0
+"UPGRADE, INC.",Checking or savings account,432,1,0.23
+OneMain Finance Corporation,Credit card,432,0,0.0
+HSBC NORTH AMERICA HOLDINGS INC.,Credit card or prepaid card,432,0,0.0
+SUNCOAST CREDIT UNION,Checking or savings account,427,1,0.23
+TransferWise Ltd,Checking or savings account,415,30,7.23
+KEYCORP,Credit card or prepaid card,414,0,0.0
+FISERV FINXACT CORE,Credit card or prepaid card,413,0,0.0
+Albert Corporation,Checking or savings account,409,0,0.0
+"Paypal Holdings, Inc",Prepaid card,405,0,0.0
+BARCLAYS BANK DELAWARE,Checking or savings account,404,0,0.0
+PENTAGON FEDERAL CREDIT UNION,Credit card,400,0,0.0
+Experian Information Solutions Inc.,Checking or savings account,397,0,0.0
+ALLY FINANCIAL INC.,"Money transfer, virtual currency, or money service",397,0,0.0
+"SOFI TECHNOLOGIES, INC.",Credit card,396,0,0.0
+FIFTH THIRD FINANCIAL CORPORATION,"Money transfer, virtual currency, or money service",390,1,0.26
+"ARVEST BANK GROUP, INC.",Checking or savings account,385,1,0.26
+FIFTH THIRD FINANCIAL CORPORATION,Credit card,384,0,0.0
+ALLIANT CREDIT UNION,Checking or savings account,378,0,0.0
+STATE EMPLOYEES’ CREDIT UNION,Checking or savings account,368,6,1.63
+"GOLDEN 1 CREDIT UNION, THE",Checking or savings account,368,2,0.54
+"CULLEN/FROST BANKERS, INC.",Checking or savings account,365,2,0.55
+"CITIZENS FINANCIAL GROUP, INC.",Credit card or prepaid card,360,0,0.0
+"Portfolio Recovery Associates, LLC",Credit card,351,12,3.42
+FIRST NATIONAL BANK OF OMAHA,Checking or savings account,348,3,0.86
+"Imprint Payments, Inc.",Credit card,348,221,63.51
+DISCOVER BANK,"Money transfer, virtual currency, or money service",348,0,0.0
+BOEING EMPLOYEES' CREDIT UNION,Checking or savings account,347,12,3.46
+GOLDMAN SACHS BANK USA,"Money transfer, virtual currency, or money service",346,0,0.0
+BANCO POPULAR DE PUERTO RICO,Checking or savings account,337,2,0.59
+FISERV FINXACT CORE,"Money transfer, virtual currency, or money service",336,0,0.0
+"Ria Envia, LLC","Money transfer, virtual currency, or money service",333,31,9.31
+Blackhawk Network Holdings Inc.,Credit card or prepaid card,332,16,4.82
+FIRST NATIONAL BANK OF PENNSYLVANIA,Checking or savings account,331,2,0.6
+"Dave Operating, LLC",Checking or savings account,331,12,3.63
+"HUNTINGTON NATIONAL BANK, THE","Money transfer, virtual currency, or money service",331,0,0.0
+"Blockchain.com, Inc.","Money transfer, virtual currency, or money service",330,10,3.03
+"Continental Finance Company, LLC",Credit card or prepaid card,329,0,0.0
+"Relay Financial (US), Corp.",Checking or savings account,328,75,22.87
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,Checking or savings account,323,2,0.62
+ASSOCIATED BANC-CORP,Checking or savings account,322,0,0.0
+First Technology Federal Credit Union,Checking or savings account,322,29,9.01
+TCF NATIONAL BANK,Checking or savings account,321,13,4.05
+ZIONS BANCORPORATION,Checking or savings account,316,0,0.0
+"UPGRADE, INC.",Credit card,309,1,0.32
+"Skrill USA, Inc.","Money transfer, virtual currency, or money service",308,14,4.55
+ADP Inc.,Checking or savings account,306,8,2.61
+AMERICA FIRST FEDERAL CREDIT UNION,Checking or savings account,303,13,4.29
+UMB FINANCIAL CORPORATION,Checking or savings account,299,2,0.67
+"UPGRADE, INC.",Credit card or prepaid card,297,0,0.0
+OLD NATIONAL BANCORP,Checking or savings account,291,1,0.34
+Meta Payments Inc.,"Money transfer, virtual currency, or money service",291,6,2.06
+Self Financial Inc.,Credit card or prepaid card,291,15,5.15
+FinCo Services Inc DBA Current,Credit card,290,50,17.24
+Kikoff Inc.,Credit card,286,0,0.0
+ADP Inc.,Prepaid card,283,0,0.0
+WorldRemit Corp.,"Money transfer, virtual currency, or money service",280,39,13.93
+TClub Inc,"Money transfer, virtual currency, or money service",277,237,85.56
+Army and Air Force Exchange Service,Credit card,274,0,0.0
+REGIONS FINANCIAL CORPORATION,Credit card or prepaid card,273,1,0.37
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,Checking or savings account,268,1,0.37
+MIDFIRST BANK,Checking or savings account,264,0,0.0
+Synovus Bank,Checking or savings account,263,0,0.0
+Revolut Technologies Inc.,Checking or savings account,262,3,1.15
+"Credit Karma, LLC",Credit card or prepaid card,261,8,3.07
+HSBC NORTH AMERICA HOLDINGS INC.,"Money transfer, virtual currency, or money service",258,0,0.0
+AMERICAN EXPRESS COMPANY,"Money transfer, virtual currency, or money service",258,3,1.16
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Checking or savings account,256,0,0.0
+Newport Intermediate Inc.,Prepaid card,251,7,2.79
+CapitalJ Inc. dba Juno,Checking or savings account,249,19,7.63
+Chime Inc.,"Money transfer, virtual currency, or money service",249,38,15.26
+COMMERCE BANK,Checking or savings account,248,3,1.21
+BMO BANK NATIONAL ASSOCIATION,"Money transfer, virtual currency, or money service",245,0,0.0
+"Prosper Marketplace, Inc.",Credit card,244,0,0.0
+FULTON FINANCIAL CORPORATION,Checking or savings account,238,1,0.42
+"Mercury Technologies, Inc.",Checking or savings account,236,3,1.27
+Sigue Corp.,"Money transfer, virtual currency, or money service",235,96,40.85
+ENCORE CAPITAL GROUP INC.,Credit card or prepaid card,230,0,0.0
+"EVERBANK, NATIONAL ASSOCIATION",Checking or savings account,228,6,2.63
+Mercury Financial Intermediate LLC,Credit card,224,1,0.45
+"Social Finance, Inc.",Checking or savings account,223,0,0.0
+"EQUIFAX, INC.",Checking or savings account,223,0,0.0
+"Colony Brands, Inc.",Credit card,222,1,0.45
+"SANTANDER HOLDINGS USA, INC.",Credit card,221,0,0.0
+"BANK OF NEW YORK MELLON CORPORATION, THE","Money transfer, virtual currency, or money service",221,10,4.52
+"BANKMOBILE TECHNOLOGIES, INC",Checking or savings account,217,0,0.0
+"BANK OF NEW YORK MELLON CORPORATION, THE",Checking or savings account,214,11,5.14
+REGIONS FINANCIAL CORPORATION,Credit card,214,0,0.0
+SOUTHSTATE BANK CORPORATION,Checking or savings account,212,0,0.0
+"Coinbase, Inc.",Checking or savings account,212,0,0.0
+REGIONS FINANCIAL CORPORATION,"Money transfer, virtual currency, or money service",211,0,0.0
+FIFTH THIRD FINANCIAL CORPORATION,Prepaid card,210,0,0.0
+HSBC NORTH AMERICA HOLDINGS INC.,Credit card,208,0,0.0
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,Checking or savings account,200,0,0.0

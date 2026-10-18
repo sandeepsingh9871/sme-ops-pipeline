@@ -1,0 +1,25 @@
+product,response,complaints
+Checking or savings account,Closed with explanation,276652
+Checking or savings account,Closed with monetary relief,47200
+Checking or savings account,Closed with non-monetary relief,18835
+Checking or savings account,In progress,3805
+Checking or savings account,Untimely response,255
+Credit card,Closed with explanation,171169
+Credit card,Closed with non-monetary relief,50378
+Credit card,Closed with monetary relief,35712
+Credit card,In progress,3802
+Credit card,Untimely response,372
+Credit card or prepaid card,Closed with explanation,98477
+Credit card or prepaid card,Closed with monetary relief,24283
+Credit card or prepaid card,Closed with non-monetary relief,18073
+Credit card or prepaid card,Untimely response,57
+"Money transfer, virtual currency, or money service",Closed with explanation,161677
+"Money transfer, virtual currency, or money service",Closed with monetary relief,10546
+"Money transfer, virtual currency, or money service",Closed with non-monetary relief,6614
+"Money transfer, virtual currency, or money service",In progress,977
+"Money transfer, virtual currency, or money service",Untimely response,417
+Prepaid card,Closed with explanation,14424
+Prepaid card,Closed with monetary relief,3970
+Prepaid card,Closed with non-monetary relief,1198
+Prepaid card,In progress,112
+Prepaid card,Untimely response,74
