@@ -7,7 +7,7 @@ schedule, a Power BI dashboard and an Excel/VBA weekly summary.
 The business framing is a financial-services servicing team: where do responses run late, can incoming
 tickets be routed automatically, and can the whole reporting chain run without manual steps?
 
-> **Status:** core pipeline, dashboard, Excel summary and impact analysis are done.
+> **Status:** core pipeline, dashboard and impact analysis are done; the Excel/VBA summary module is written but not yet run end to end.
 > Splunk log monitoring, Power Automate failure alerts and Confluence/SharePoint documentation are
 > **planned, not implemented** (see [Roadmap](#roadmap)).
 
@@ -140,7 +140,7 @@ sheet (last 12 months vs prior 12 months by product), draws a chart and exports 
 etl/                    PySpark and scikit-learn stages, BI export, impact analysis
 scripts/                run_pipeline.sh (shell runner), download_narratives.sh
 airflow/dags/           sme_ops_pipeline_dag.py
-excel/                  WeeklySummary.bas (VBA), workbook and PDF output
+excel/                  WeeklySummary.bas (VBA), workbook and PDF output (not yet added)
 dashboard/              Power BI report and PDF export
 reports/                data-quality report, classifier report, threshold table, BI CSVs, impact analysis
 docs/screenshots/       dashboard screenshots
