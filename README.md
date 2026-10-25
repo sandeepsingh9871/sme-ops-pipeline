@@ -8,7 +8,7 @@ The business framing is a financial-services servicing team: where do responses 
 tickets be routed automatically, and can the whole reporting chain run without manual steps?
 
 > **Status:** core pipeline, dashboard and impact analysis are done; the Excel/VBA summary module is written but not yet run end to end.
-> Splunk log monitoring, Power Automate failure alerts and Confluence/SharePoint documentation are
+> Splunk log monitoring, failure alerting and Confluence/SharePoint documentation are
 > **planned, not implemented** (see [Roadmap](#roadmap)).
 
 ## Architecture
