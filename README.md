@@ -185,6 +185,6 @@ one local Derby metastore and write to the same output folders.
 ## Roadmap
 
 - Splunk monitoring of `logs/pipeline.log` and `logs/dq_events.log` (the logs are already written as key=value / JSON lines)
-- Power Automate alert on pipeline or validation failure
+- Failure alerting (Power Automate needs a work or school account; a webhook or email alert is the alternative)
 - Add Product as a model feature and compare against text-only
 - Process documentation (Confluence or SharePoint) with a runbook
