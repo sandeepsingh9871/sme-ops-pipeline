@@ -2,7 +2,7 @@
 
 An automated, end-to-end analytics pipeline on **real public data** (CFPB Consumer Complaint Database):
 PySpark ingestion, Hive tables, automated data-quality gates, an NLP ticket-routing model, an Airflow
-schedule, a Power BI dashboard and an Excel/VBA weekly summary.
+schedule, a Power BI dashboard and an Excel/VBA weekly-summary module.
 
 The business framing is a financial-services servicing team: where do responses run late, can incoming
 tickets be routed automatically, and can the whole reporting chain run without manual steps?
